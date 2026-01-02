@@ -5,6 +5,5 @@ HEAD
 echo "addition feature added"
 
 echo "Subtraction feature added"
- sub-feature
 
- echo "Calculatorapplication v1"
+echo "Calcutor Application v2"
